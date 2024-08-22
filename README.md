@@ -24,7 +24,11 @@ THEN the saved tasks persist
 
 ## Go to my project
   
-You can check out my repository [here](https://github.com/VanZittle/TaskPilot). Or take a look at my deployed application [here]().
+You can check out my repository [here](https://github.com/VanZittle/TaskPilot). Or take a look at my deployed application [here](https://vanzittle.github.io/TaskPilot/).
+
+## Visual reference of project
+The following image demonstrates the app's appearance:
+![](./assets/challenge_appReference.gif)
 
 ## License
 ![GitHub](https://img.shields.io/github/license/VanZittle/TaskPilot?style=for-the-badge)<br> Go to license [here](https://github.com/VanZittle/TaskPilot/blob/main/LICENSE)
